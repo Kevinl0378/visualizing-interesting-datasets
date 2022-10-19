@@ -1,4 +1,4 @@
-# Visualizing interesting datasets
+# Visualizing Interesting Datasets
 
 In this project, I will be performing a data visualization on two different datasets: 
 * One in JSON (JavaScript Object Notation) format
