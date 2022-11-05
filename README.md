@@ -2,7 +2,7 @@
 
 In this project, I will be performing a data visualization on two different datasets: 
 * One in JSON (JavaScript Object Notation) format
-* One in CVS (Comma-Separated Values) format
+* One in CSV (Comma-Separated Values) format
 
 Here is a link to the project instructions: [Project_02](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_02)
 
